@@ -1,5 +1,4 @@
 ---
-subtitle: Artisan bakery in GG2 Vikaspuri
 image: images/about.jpg
 image_alt: A man taking a picture
 seo:
