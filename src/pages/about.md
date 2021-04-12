@@ -33,7 +33,8 @@ subtitle: >-
   The phrase "Pie in the sky" means too good to be true! It also represents the
   idea of heaven, you die to get a pie in the sky :-) We believe there's no
   heaven the only heaven we have is the planet we live on. Mother Earth is the
-  only Pie in the Sky that's why we generate less waste, use bio-degradable 
+  only Pie in the Sky that's why we generate less waste, use bio-degradable
+  plates and cutlery, 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
