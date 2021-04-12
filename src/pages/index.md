@@ -16,6 +16,8 @@ sections:
         new_window: false
         no_follow: false
         type: action
+    content: |
+      ![](/images/elite-celery.jpg)
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
