@@ -10,7 +10,7 @@ sections:
         url: /menu
         style: button
       - label: Visit Us
-        url: '#'
+        url: /contact
         style: link
         icon: dribbble
         new_window: false
