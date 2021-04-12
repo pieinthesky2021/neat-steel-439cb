@@ -3,7 +3,6 @@ title: Pie in the sky Menu
 hide_title: true
 sections:
   - title: lorem-ipsum
-    section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
