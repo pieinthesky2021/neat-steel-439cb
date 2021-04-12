@@ -7,7 +7,7 @@ sections:
     title: Welcome to Pie in the Sky (Now on Earth @ Vikaspuri)
     actions:
       - label: Menu
-        url: /contact
+        url: /menu
         style: button
 seo:
   title: Stackbit Exto Theme
