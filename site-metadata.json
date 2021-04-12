@@ -30,7 +30,8 @@
             }
         ],
         "logo_img": "images/Logo_Pieinthesky.jpg",
-        "logo_img_alt": "logo-pie-in-the-sky"
+        "logo_img_alt": "logo-pie-in-the-sky",
+        "title": "Pie in the Sky"
     },
     "footer": {
         "has_social": true,
