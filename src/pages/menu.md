@@ -11,9 +11,4 @@ template: page
 subtitle: We bake all our products in house
 image: images/Menu Page 1.jpeg
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+<https://drive.google.com/file/d/1kDC1-i3qdvdFZwmvZM_7Kk8apl-7lEY2/view?usp=sharing>
