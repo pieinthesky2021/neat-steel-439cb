@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: Welcome to Pie in the Sky (Now on Earth @ Vikaspuri)
     actions:
-      - label: Let's talk
+      - label: Menu
         url: /contact
         style: button
 seo:
