@@ -9,7 +9,7 @@ sections:
       - label: Menu
         url: /menu
         style: button
-      - label: lorem-ipsum
+      - label: Visit Us
         url: '#'
         style: link
         icon: dribbble
