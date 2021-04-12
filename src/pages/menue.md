@@ -5,6 +5,7 @@ sections:
   - section_id: lorem-ipsum
     actions: []
     type: section_hero
+    title: Menu
 seo:
   title: ''
   description: ''
