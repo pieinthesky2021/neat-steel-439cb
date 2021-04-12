@@ -8,6 +8,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: page
+subtitle: 'We bake all our '
 ---
 ## Lorem ipsum
 
