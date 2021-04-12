@@ -9,7 +9,6 @@ seo:
   type: stackbit_page_meta
 template: page
 subtitle: We bake all our products in house
-image: images/Menu Page 1.jpeg
 ---
 ![](/images/robust-potato.jpeg)
 
