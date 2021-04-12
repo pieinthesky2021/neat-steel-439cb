@@ -37,5 +37,5 @@ seo:
     - name: 'twitter:description'
       value: This is the contact page
 template: advanced
-title: Reach out
+title: Visit Us
 ---
