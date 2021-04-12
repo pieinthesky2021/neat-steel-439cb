@@ -21,7 +21,7 @@
             },
             {
                 "label": "Menu",
-                "url": "#",
+                "url": "/menu",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
