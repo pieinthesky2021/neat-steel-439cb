@@ -32,11 +32,11 @@ title: Artisan bakery in Vikaspuri New Delhi
 subtitle: >-
   The phrase "Pie in the sky" means too good to be true! It also represents the
   idea of heaven, you die to get a pie in the sky :-) We don't know if heaven is
-  real. But we know that the planet we live on can be one. Mother Earth is the
-  only Pie in the Sky that's why we generate less waste, use bio-degradable
-  plates and cutlery, give away what's not good to be sold and feed the
-  leftovers to a cowshed nearby!  Visit us for a heavenly Pie coz there's only
-  one Pie in the Sky.
+  real. But we believe that the planet we live on can be one. Mother Earth is
+  the only Pie in the Sky (The one we don't have any doubt about) that's why we
+  generate less waste, use bio-degradable plates and cutlery, give away what's
+  not good to be sold and feed the leftovers to a cowshed nearby!  Visit us for
+  a heavenly Pie coz there's only one Pie in the Sky.
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
