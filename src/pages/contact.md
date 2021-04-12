@@ -58,5 +58,5 @@ seo:
     - name: 'twitter:description'
       value: This is the contact page
 template: advanced
-title: Come as you are
+title: Reach out
 ---
