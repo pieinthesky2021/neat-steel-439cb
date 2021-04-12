@@ -1,5 +1,5 @@
 ---
-image: images/about.jpg
+image: images/pie_in_the_sky_exterior.jpg
 image_alt: A man taking a picture
 seo:
   title: About Us
