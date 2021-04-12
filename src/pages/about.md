@@ -29,7 +29,7 @@ seo:
       relativeUrl: true
 template: page
 title: Artisan bakery in Vikaspuri New Delhi
-subtitle: The phrase "Pie in the sky
+subtitle: 'The phrase "Pie in the sky" means too good to be true! '
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
