@@ -35,7 +35,8 @@ subtitle: >-
   heaven the only heaven we have is the planet we live on. Mother Earth is the
   only Pie in the Sky that's why we generate less waste, use bio-degradable
   plates and cutlery, give away what's not good to be sold and feed the
-  leftovers to a cowshed nearby!  Visit us for a heavenly Pie c
+  leftovers to a cowshed nearby!  Visit us for a heavenly Pie coz there's only
+  one Pie in the Sky.
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
