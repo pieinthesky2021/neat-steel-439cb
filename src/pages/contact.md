@@ -1,7 +1,7 @@
 ---
 hide_title: false
 sections:
-  - title: lorem-ipsum
+  - title: Fancy a pie?
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
