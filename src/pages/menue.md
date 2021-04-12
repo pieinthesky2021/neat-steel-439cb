@@ -1,5 +1,5 @@
 ---
-title: Menue
+title: Pie in the sky Menu
 hide_title: true
 sections: []
 seo:
