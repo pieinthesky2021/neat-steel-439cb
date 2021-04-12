@@ -2,8 +2,7 @@
 title: Menue
 hide_title: true
 sections:
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
