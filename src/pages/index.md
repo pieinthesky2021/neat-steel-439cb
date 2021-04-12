@@ -9,6 +9,13 @@ sections:
       - label: Menu
         url: /menu
         style: button
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
