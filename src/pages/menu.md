@@ -8,7 +8,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: page
-subtitle: We bake all our products in house
+subtitle: 'We bake all our products in house, '
 ---
 ![](/images/robust-potato.jpeg)
 
