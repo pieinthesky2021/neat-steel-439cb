@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Menu
 subtitle: This is an optional subtitle for the portfolio page.
 layout_style: mosaic
 seo:
