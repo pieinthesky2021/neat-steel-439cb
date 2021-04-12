@@ -1,11 +1,7 @@
 ---
 title: Menue
 hide_title: true
-sections:
-  - section_id: lorem-ipsum
-    actions: []
-    type: section_hero
-    title: Menu
+sections: []
 seo:
   title: ''
   description: ''
