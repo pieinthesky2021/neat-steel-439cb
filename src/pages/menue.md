@@ -18,6 +18,7 @@ sections:
 
       - dolor sit amet
     type: section_content
+    image: images/marvelous-amaranth.jpeg
 seo:
   title: ''
   description: ''
