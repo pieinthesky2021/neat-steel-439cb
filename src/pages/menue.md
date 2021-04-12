@@ -16,8 +16,7 @@ sections:
       - dolor sit amet
     type: section_content
     image: images/marvelous-amaranth.jpeg
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
