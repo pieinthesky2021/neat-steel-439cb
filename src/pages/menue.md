@@ -29,6 +29,7 @@ sections:
 
       - dolor sit amet
     type: section_content
+    image: images/neat-mint.jpeg
 seo:
   title: ''
   description: ''
